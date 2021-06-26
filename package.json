@@ -1,0 +1,15 @@
+{
+  "name": "portafolio",
+  "version": "1.0.0",
+  "description": "portafolio ",
+  "main": "index.js",
+  "scripts": {
+    "dev": "sergey --watch",
+    "start":"sergey"
+  },
+  "author": "@angelmarcos",
+  "license": "ISC",
+  "dependencies": {
+    "sergey": "0.0.13"
+  }
+}
