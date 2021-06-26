@@ -508,17 +508,25 @@ body {
 	justify-content: center;
 	height:500px;
 }
+.form-contacto{
+	width:90%;
+	max-width: 500px;
+}
 .input-group{
-	margin-bottom:.7rem ;
+	margin-bottom:1.5rem ;
 }
 .input-group label{
-	font-size: .8rem;
-	margin-bottom:.4rem ;
+	display:block;
+	margin-bottom:.7rem ; 
 
 }
 .form__input{
+	padding:10px;
 	width: 100%;
 	outline:none;
 	border:none;
+	background-color: var(--bg-card);
 	box-shadow: 0 0 5px var(--shadow);
+	color: var(--text-color-main);
+
 }
